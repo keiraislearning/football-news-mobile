@@ -12,7 +12,7 @@ class MyHomePage extends StatelessWidget {
 
     final List<ItemHomepage> items = [
     ItemHomepage("See Football News", Icons.newspaper),
-    ItemHomepage("Add News", Icons.add),
+    ItemHomepage("Tambah Berita", Icons.add),
     ItemHomepage("Logout", Icons.logout),
   ];
 
